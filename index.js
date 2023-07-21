@@ -16,7 +16,7 @@ client.on("qr", (qr) => {
 client.on("ready", () => {
   console.log("Client is ready!");
   
-  const number = "+919113848754";
+  const number = "+000000000000";
 
   // Your message.
  const text = "This message is automated";
